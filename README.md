@@ -82,3 +82,16 @@ could be labeled as:
 
 ```txt
 Career Anxiety Bait + Doomposting
+
+clankershield/
+├── public/
+│   └── manifest.json
+├── src/
+│   ├── content.ts
+│   ├── popup.tsx
+│   ├── popup.html
+│   └── styles.css
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
