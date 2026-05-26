@@ -82,7 +82,7 @@ could be labeled as:
 
 ```txt
 Career Anxiety Bait + Doomposting
-
+```
 clankershield/
 ├── public/
 │   └── manifest.json
